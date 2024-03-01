@@ -23,3 +23,5 @@ The state-of-the-art of open-source solutions for creating data-driven documents
 ::: footer
 Learn more: [Preview Links](https://quarto.org/docs/presentations/revealjs/presenting.html#preview-links)
 :::
+
+# Contact
