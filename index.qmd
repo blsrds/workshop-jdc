@@ -1,5 +1,5 @@
 ---
-title: "WorkshopJDC"
+title: "Creating reproducible reports with Quarto and Github"
 author: "Adriano Belisario"
 format:
   revealjs: 
@@ -7,24 +7,19 @@ format:
     chalkboard: 
       buttons: false
     preview-links: auto
+    logo: img/jdc-logo.png
     footer: Joint Data Center on Forced Displacement
 ---
 
-## Quarto
 
-Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+# What is Quarto?
 
-## Bullets
+The state-of-the-art of open-source solutions for creating data-driven documents.
 
-When you click the **Render** button a document will be generated that includes:
+::: {style="text-align: center; margin-top: 1em"}
+[https://quarto.org/](https://quarto.org/){preview-link="true" style="text-align: center"}
+:::
 
--   Content authored with markdown
--   Output from executable code
-
-## Code
-
-When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
-
-```{r}
-1 + 1
-```
+::: footer
+Learn more: [Preview Links](https://quarto.org/docs/presentations/revealjs/presenting.html#preview-links)
+:::
